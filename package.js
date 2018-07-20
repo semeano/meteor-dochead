@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'kadira:dochead',
+  name: 'semeano:dochead',
   summary: 'Isomorphic way to manipulate document.head for Meteor apps',
-  version: '1.5.0',
-  git: 'https://github.com/kadirahq/meteor-dochead.git'
+  version: '1.5.1',
+  git: 'https://github.com/semeano/meteor-dochead.git'
 });
 
 Npm.depends({

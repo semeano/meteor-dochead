@@ -2,6 +2,10 @@
 
 ### v1.5.0
 
+* Change position where the tags are added to the beginning of head tag.
+
+### v1.5.0
+
 * Add Meteor 1.3 support. See: [PR32](https://github.com/kadirahq/meteor-dochead/pull/32).
 
 ### v1.4.0
